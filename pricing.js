@@ -1,1 +1,5 @@
-jakjfdhakdnla
+//wood pricing
+
+function totalPricing(){
+    
+}
